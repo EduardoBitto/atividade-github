@@ -1,2 +1,2 @@
-# atividade-github do grandioso Eron Pereira.
-Buscando familiaridade com a plataforma!
+# _Atividade-github do grandioso Eron Pereira._
+*Buscando familiaridade com a plataforma!*
